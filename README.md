@@ -1,2 +1,2 @@
-# ejemplo2
-este es un repositorio de prueba 
+este es un ejemplo de como crear un repositorio con git hub 
+
